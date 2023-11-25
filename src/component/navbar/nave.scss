@@ -1,0 +1,12 @@
+.carcar {
+  transition: 0.3s;
+  padding: 4px 10px;
+  border-radius: 7px;
+  font-size: 20px;
+  &:hover {
+    color: white;
+
+    background-color: black;
+    transition: 0.3s;
+  }
+}
